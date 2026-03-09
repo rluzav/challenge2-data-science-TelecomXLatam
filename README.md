@@ -60,6 +60,24 @@ de los clientes y generar insights estratégicos para reducir la cancelación de
 
 ---
 
+## 🚀 Instrucciones para Ejecutar el Notebook
+
+### Opción 1 — Google Colab (recomendado)
+1. Abre el archivo `Challenge2_TelecomX_LATAM.ipynb` en Google Colab
+2. Ve a **Runtime > Run all** (`Ctrl + F9`)
+3. El notebook descarga automáticamente los datos desde la API
+
+### Opción 2 — Local
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/rluzav/challenge2-telecomx.git
+
+# 2. Instala las dependencias
+pip install pandas matplotlib seaborn plotly
+
+# 3. Ejecuta el notebook
+jupyter notebook Challenge2_TelecomX_LATAM.ipynb
+---
 ## 👤 Autor
 **rluzav**  
 Challenge realizado como parte del programa de formación en Data Science — Alura LATAM 🚀
