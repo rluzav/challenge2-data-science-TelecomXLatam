@@ -77,6 +77,7 @@ pip install pandas matplotlib seaborn plotly
 
 # 3. Ejecuta el notebook
 jupyter notebook Challenge2_TelecomX_LATAM.ipynb
+```
 ---
 ## 👤 Autor
 **rluzav**  
